@@ -1,0 +1,13 @@
+/* Additional CSS for styling */
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    max-width: 600px;
+}
+.invalid-feedback {
+    display: none;
+}
+.is-invalid .invalid-feedback {
+    display: block;
+}
